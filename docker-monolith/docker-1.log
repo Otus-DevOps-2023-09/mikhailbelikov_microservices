@@ -1,0 +1,9 @@
+root@otus:~/otus/mikhailbelikov_microservices# docker images
+REPOSITORY                       TAG       IMAGE ID       CREATED          SIZE
+mikhailbelikov/ubuntu-tmp-file   latest    06a92f93d8bd   55 seconds ago   63.2MB
+ubuntu                           18.04     f9a80a55f492   10 months ago    63.2MB
+hello-world                      latest    d2c94e258dcb   11 months ago    13.3kB
+
+В контейнере могут быть заданы особые настройки и предустановки приложений.
+Контейнер имеет возможность записи в него и изменений настроек.
+
