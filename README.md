@@ -26,3 +26,13 @@ mikhailbelikov microservices repository
 Установлен docker-compose на локальную машину
 Собраны образы приложения reddit с помощью docker-compose
 Запущено приложение reddit с помощью dockercompose
+
+## Устройство Gitlab CI. Построение процесса непрерывной интеграции  
+
+### Основное задание:  
+В Yandex Cloud разврнута ВМ gitlab-ci-vm с публичным адресом 51.250.8.148
+Выполнена установка Docker и Docker Compose на ВМ
+Развернут Gitlab на поднятой ВМ
+Создан проект в Gitlab  
+Подключен удаленный репозиторий GitLab 
+Протестированы пайплайны в gitlab-ci
