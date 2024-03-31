@@ -50,3 +50,12 @@ https://hub.docker.com/repository/docker/mikhailbelikov/prometheus/general
 https://hub.docker.com/repository/docker/mikhailbelikov/post/general
 https://hub.docker.com/repository/docker/mikhailbelikov/comment/general
 https://hub.docker.com/repository/docker/mikhailbelikov/ui/general
+
+## Введение в Kubernetes #1   
+
+### Основное задание:  
+Создан файл post-deployment.yml в директории kubernetes/reddit
+Установлен k8s на двух нодах
+Проверены манифесты
+Успешный запуск подов
+
