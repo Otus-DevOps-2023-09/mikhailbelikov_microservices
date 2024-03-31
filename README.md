@@ -36,3 +36,17 @@ mikhailbelikov microservices repository
 Создан проект в Gitlab  
 Подключен удаленный репозиторий GitLab 
 Протестированы пайплайны в gitlab-ci
+
+## Введение в мониторинг. Модели и принципы работы систем мониторинга  
+
+### Основное задание: 
+Создана ВМ в YC
+Инициализировано окружение в Docker
+Запущен Prometheus
+Создан образ Prometheus
+Выполнена установка Prometheus через Docker Compose
+Запушены образы в DockerHub
+https://hub.docker.com/repository/docker/mikhailbelikov/prometheus/general
+https://hub.docker.com/repository/docker/mikhailbelikov/post/general
+https://hub.docker.com/repository/docker/mikhailbelikov/comment/general
+https://hub.docker.com/repository/docker/mikhailbelikov/ui/general
