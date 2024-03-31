@@ -18,3 +18,11 @@ mikhailbelikov microservices repository
 Создали bridge-сеть для контейнеров
 Запустили наши контейнеры в этой сети
 
+## Сетевое взаимодействие Docker контейнеров. Docker Compose. Тестирование образов.
+
+### Основное задание:
+Работа с сетями в Docker
+Использование docker-compose
+Установлен docker-compose на локальную машину
+Собраны образы приложения reddit с помощью docker-compose
+Запущено приложение reddit с помощью dockercompose
