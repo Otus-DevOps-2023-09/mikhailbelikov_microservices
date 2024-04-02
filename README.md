@@ -79,3 +79,12 @@ https://hub.docker.com/repository/docker/mikhailbelikov/ui/general
 Добавлены grok-шаблоны  
 Запущен и изучен сервис трейсинга zipkin  
 Изучена визуализация логов и сбор структурированных логов
+
+## Основные модели безопасности и контроллеры в Kubernetes
+
+### Основное задание:
+Локально развернуто окржение для работы с Kubernetes
+Для minikube использован Virtualbox
+Развернут Kubernetes в Yandex Cloud
+Запущен reddit в Kubernetes, скриншот в PR.
+
