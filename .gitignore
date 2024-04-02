@@ -4,3 +4,5 @@ build_info.txt
 ## python specific
 *.pyc
 docker/.env
+kubectl
+kubectl.sha256
