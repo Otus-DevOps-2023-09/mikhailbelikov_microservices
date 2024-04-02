@@ -88,3 +88,10 @@ https://hub.docker.com/repository/docker/mikhailbelikov/ui/general
 Развернут Kubernetes в Yandex Cloud
 Запущен reddit в Kubernetes, скриншот в PR.
 
+## Ingress-контроллеры и сервисы в Kubernetes
+
+### Основное задание:
+Установлен ingress контроллер
+Настроена Network Policy и TLS
+Созданы PVC и PV
+Mongo подключен к созданному PVC
