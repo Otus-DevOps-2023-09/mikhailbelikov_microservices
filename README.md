@@ -1,6 +1,3 @@
-# mikhailbelikov_microservices
-mikhailbelikov microservices repository
-
 ## Docker контейнеры. Docker под капотом.
 
 ### Основное задание:
@@ -95,3 +92,11 @@ https://hub.docker.com/repository/docker/mikhailbelikov/ui/general
 Настроена Network Policy и TLS
 Созданы PVC и PV
 Mongo подключен к созданному PVC
+
+## Интеграция Kubernetes в GitlabCI
+
+### Основное задание:
+Выполнена установка Helm
+Настроены Helm чарты
+Развертывание Gitlab в Kubernetes
+Запуск CI/CD в Kubernetes
